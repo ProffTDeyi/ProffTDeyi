@@ -7,7 +7,7 @@ Im Professor, A front-end Developer Who is Looking Forward Into Expanding His Kn
 I enjoy Working With different people because thats where new ideas come from. Im looking forward to contribute to open source projects, as a way to expand my knowledge again.
 
 ## Skills And Experience
-REACT
+(*REACT*)
 REDUX
 JS
 jQuery
