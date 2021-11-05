@@ -8,12 +8,12 @@ I enjoy Working With different people because thats where new ideas come from. I
 
 ## Skills And Experience
 
--*REACT*
--*REDUX*
--*JS*
--*jQuery*
--*HTML*
--*CSS*
+- *REACT*
+- *REDUX*
+- *JS*
+- *jQuery*
+- *HTML*
+- *CSS*
 
 ### Current Progress
 - 🔭 I’m currently working on  an E-commerce App 
