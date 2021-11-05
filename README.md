@@ -9,10 +9,10 @@ I enjoy Working With different people because thats where new ideas come from. I
 ## Skills And Experience
 *<REACT/>*
 *<REDUX/>*
-*<JS/>
+*<JS/>*
 *<jQuery/>*
 *<HTML/>*
-*<CSS/>
+*<CSS/>*
 
 - 🔭 I’m currently working on  an E-commerce App 
 - 🌱 I’m currently learning Angular and Firebase
