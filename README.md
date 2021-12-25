@@ -2,7 +2,7 @@
 #### Front-end Developer
 ![Front-end Developer](https://github.com/ProffTDeyi/ProffTDeyi/blob/e915939ae7930893200937d2a4ede2927c5f8cb8/web-design.png)
 
-Im Professor, A front-end Developer Who is Looking Forward To Expanding His Knowledge Through Learning new Technologies everyday.
+Im Professor, A front-end Developer Who is Looking Forward To Expand His Knowledge Through Learning new Technologies everyday.
 
 I enjoy Working With different people because thats where new ideas comes from. Im looking forward to contribute to open source projects, as a way to expand my knowledge again.
 
